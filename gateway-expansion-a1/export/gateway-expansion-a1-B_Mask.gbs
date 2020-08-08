@@ -1,0 +1,15 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.99.0-2407-g46ade4960)*%
+%TF.CreationDate,2020-08-08T20:05:26+03:00*%
+%TF.ProjectId,gateway-expansion-a1,67617465-7761-4792-9d65-7870616e7369,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.99.0-2407-g46ade4960)) date 2020-08-08 20:05:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*
